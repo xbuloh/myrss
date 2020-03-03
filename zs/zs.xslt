@@ -5,7 +5,7 @@
 	<rss version="2.0">
 	<channel>
 		<title>ZS Pardubičky</title>
-		<description>This is an example of an RSS feed</description>
+		<description>RSS ZS Pardubičky</description>
 		<link>http://www.zs-pardubicky.cz/</link>
 		<lastBuildDate>Mon, 06 Sep 2010 00:01:00 +0000 </lastBuildDate>
 		<pubDate>Sun, 06 Sep 2009 16:20:00 +0000</pubDate>
